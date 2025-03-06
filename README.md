@@ -1,5 +1,6 @@
 # 💫 About Me:
-🩷 Hi, I’m @janaellayan!<br><br>🎀 Pronouns: she/her<br><br>🌟 I love info ! <br><br>✨ Interests:<br>🎮 Game Development<br>🦾 AI & Machine Learning<br>🏆 Competitive Programming<br>🔭 Data Science<br><br>🌟 Let's connect!<br>💌 Email: contactjanaellayan@gmail.com<br>📫 LinkedIn: https://www.linkedin.com/in/janaellayan/<br>🐈 Fun fact: My cat, Sera, is my unofficial coding assistant—mostly by sitting on my keyboard. 😸<br><br>
+🩷 Hi, I’m @janaellayan!<br><br>🎀 Pronouns: she/her<br><br>🌟 I love info ! <br><br>✨ Interests:<br>🎮 Game Development<br>🦾 AI & Machine Learning<br>🏆 Competitive Programming<br>🔭 Data Science<br><br>🌟 Let's connect!<br>💌 Email: contactjanaellayan@gmail.com<br>📫 LinkedIn: https://www.linkedin.com/in/janaellayan/<br>
+🐈 Fun fact: My cat, Sera, is my unofficial coding assistant—mostly by sitting on my keyboard. 😸<br><br>
   [Sera my love](https://github.com/user-attachments/assets/f54786d6-c795-434b-9ce8-ef910abdd245)
 
 ## 🌐 Socials:
@@ -14,9 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=janaellayan&theme=jolly&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=janaellayan&icon=7&color=10)](https://visitcount.itsvg.in)
