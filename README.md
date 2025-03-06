@@ -1,7 +1,7 @@
 # 💫 About Me:
 🩷 Hi, I’m @janaellayan!<br><br>🎀 Pronouns: she/her<br><br>🌟 I love info ! <br><br>✨ Interests:<br>🎮 Game Development<br>🦾 AI & Machine Learning<br>🏆 Competitive Programming<br>🔭 Data Science<br><br>🌟 Let's connect!<br>💌 Email: contactjanaellayan@gmail.com<br>📫 LinkedIn: https://www.linkedin.com/in/janaellayan/<br>
 <br>
-🐈 Fun fact: My cat, Sera, is my unofficial coding assistant—mostly by sitting on my keyboard. 😸<br><br>
+🐈 Fun fact: My cat, Sera, is my unofficial coding assistant—mostly by sitting on my keyboard. 😸<br>
   [Sera my love](https://github.com/user-attachments/assets/f54786d6-c795-434b-9ce8-ef910abdd245)
 
 ## 🌐 Socials:
